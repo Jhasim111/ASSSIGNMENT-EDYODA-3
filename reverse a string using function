@@ -1,0 +1,6 @@
+def function(x):
+  return x[::-1]
+
+string = function("  python programming 12345")
+
+print(string)    
